@@ -1,0 +1,47 @@
+*{
+    padding: 0%;
+    margin: 0%;
+
+    
+}
+
+
+.main{
+    display: flex;
+    background-color: black;
+    border-radius: 20px;
+    width: 50%;
+    margin: auto;
+    align-items: center;
+   padding: 6px;
+    
+   
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    color: white;
+    align-items: center;
+    
+}
+button{
+background-color: white;
+border-radius: 10px;
+padding: 7px;
+color: rgb(0, 0, 0);
+border-style: none;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+i{
+    background-color: white;
+    color: black;
+    padding: 7px;
+    border-radius: 20px;
+}
+body{
+    margin-top: 200px;
+}

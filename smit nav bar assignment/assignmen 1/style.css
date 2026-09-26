@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(235, 235, 235);
+}
+.navbar{
+    background-color:white;
+   display: flex;
+   border: 1px none black;
+   border-radius: 50px;
+   justify-content: space-around;
+   height: 50px;
+   align-items: center;
+   width: 75%;
+   margin: auto;
+   margin-top: 200px;
+
+}
+.orderlist{
+   color: black;
+    display: flex;
+    justify-content: space-evenly;
+    width: 430px;
+    list-style: none;
+}
+#white{
+    background-color: white;
+    height: 30px;
+    width: 90px;
+     border-style: none;
+}
+#black{
+    background-color: black;
+    color: white;
+    height: 30px;
+    width: 90px;
+    border-style: none;
+}
